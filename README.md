@@ -1,0 +1,4 @@
+hwsettingsmanager
+=================
+
+eZPublish Settings Manager
